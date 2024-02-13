@@ -1,2 +1,2 @@
 print ("hello anjitha")
-print ("hello ansana")
+print ("hello")
